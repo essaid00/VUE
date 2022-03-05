@@ -1,6 +1,9 @@
 {
   "name": "vuestic-admin",
   "version": "3.0.2",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
