@@ -6,7 +6,7 @@
   },
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "serve": "vue-cli-service serve",
     "serve:production": "vue-cli-service serve --mode production",
     "build": "vue-cli-service build",
